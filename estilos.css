@@ -1,0 +1,51 @@
+.Proyecto{
+	font-family: Viner Hand ITC;
+	text-align: center;
+	color: white;
+	font-size: 400%;
+}
+.p{
+	text-align: center;
+	font-size: 250%
+}
+form{
+border: gold 10px dotted;
+}
+.di{
+	text-align: center;
+}
+.fo{
+	font-family: Vivaldi;
+	color: green;
+	background: white;
+	text-align: center;
+	font-size: 200%
+
+}
+.for{
+	text-align: center;
+	border: gold 2px dotted	
+    font-family: Harlow Solid Italic;
+    color: blue;
+    font-size: 220%
+
+}
+.tit{
+	text-align: center;
+	font-family: Harlow Solid Italic;
+	color: white;
+	font-size: 400%
+}
+.bu{
+text-align: right;
+color: gold
+font-family: Vivaldi;
+font-size: 20px;
+
+}
+.sc{
+	font-family: algerian;
+	color: white;
+	text-align: center;
+	
+}
